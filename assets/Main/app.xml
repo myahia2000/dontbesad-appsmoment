@@ -1,0 +1,172 @@
+<xml>
+  <targetplatform simulator="Nexus5">Android</targetplatform>
+  <template price="199.99" id="iBlog" scaleWebPagesToBaseResolution="false" />
+  <prop id="appname" title="App Name">23dontbesad</prop>
+  <prop id="tab1text" title="Tab1 Text">Home</prop>
+  <prop id="tab1icon" title="Tab1 Icon">60-signpost.png</prop>
+  <prop id="tab2text" title="Tab2 Text">Blog</prop>
+  <prop id="tab2icon" title="Tab2 Icon">index.png</prop>
+  <prop id="tab3text" title="Tab3 Text">Gallery</prop>
+  <prop id="tab3icon" title="Tab3 Icon">gallery.png</prop>
+  <prop id="tab4text" title="Tab4 Text">Globe</prop>
+  <prop id="tab4icon" title="Tab4 Icon">icon_globe.png</prop>
+  <page id="tab2.html" type="mosaic" kind="native" transition="" slidepageid="none" slidetransition="" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" autoCaptionsEnabled="false" backgroundImage="background_app.jpg" backgroundColor="" textColor="">
+    <webalbum title="">
+      <webpicture>
+        <title>Picture1</title>
+        <file>aa.jpg</file>
+        <caption>
+        </caption>
+      </webpicture>
+      <webpicture>
+        <title>Picture2</title>
+        <file>bb.jpg</file>
+        <caption>
+        </caption>
+      </webpicture>
+      <webpicture>
+        <title>Picture3</title>
+        <file>cc.jpg</file>
+        <caption>
+        </caption>
+      </webpicture>
+      <webpicture>
+        <title>Picture4</title>
+        <file>dd.jpg</file>
+        <caption>
+        </caption>
+      </webpicture>
+      <webpicture>
+        <title>Picture5</title>
+        <file>ee.jpg</file>
+        <caption>
+        </caption>
+      </webpicture>
+      <webpicture>
+        <title>Picture6</title>
+        <file>ff.jpg</file>
+        <caption>
+        </caption>
+      </webpicture>
+      <webpicture>
+        <title>Picture7</title>
+        <file>gg.jpg</file>
+        <caption>
+        </caption>
+      </webpicture>
+      <webpicture>
+        <title>Picture8</title>
+        <file>hh.jpg</file>
+        <caption>
+        </caption>
+      </webpicture>
+      <webpicture>
+        <title>Picture9</title>
+        <file>ii.jpg</file>
+        <caption>
+        </caption>
+      </webpicture>
+      <webpicture>
+        <title>Picture10</title>
+        <file>jj.jpg</file>
+        <caption>
+        </caption>
+      </webpicture>
+      <webpicture>
+        <title>Picture11</title>
+        <file>kk.jpg</file>
+        <caption>
+        </caption>
+      </webpicture>
+      <webpicture>
+        <title>Picture12</title>
+        <file>mm.jpg</file>
+        <caption>
+        </caption>
+      </webpicture>
+      <webpicture>
+        <title>Picture13</title>
+        <file>nn.jpg</file>
+        <caption>
+        </caption>
+      </webpicture>
+      <webpicture>
+        <title>Picture18</title>
+        <file>pic1.jpg</file>
+        <caption>
+        </caption>
+      </webpicture>
+      <webpicture>
+        <title>Picture19</title>
+        <file>ss-600.jpg</file>
+        <caption>
+        </caption>
+      </webpicture>
+      <webpicture>
+        <title>Picture20</title>
+        <file>tt-600.jpg</file>
+        <caption>
+        </caption>
+      </webpicture>
+    </webalbum>
+  </page>
+  <page id="tab4.html" type="mobile" kind="html" transition="" slidepageid="" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" />
+  <planname>Basic</planname>
+  <page id="tab1.html" type="buttonmenu" transition="" slidepageid="none" slidetransition="" hasreviews="no" hassend="no" hasfields="no" topad="no" bottomad="no" topadtype="none" bottomadtype="none" dynamicdata="false" jsonurl="" hasreviewhtmlkey="no" kind="html" />
+  <page id="tab3.html" type="mobile" kind="html" transition="" slidepageid="" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no">
+  </page>
+  <page id="follow.html" type="webkitmenu" transition="" slidepageid="" slidetransition="" hasreviews="no" hassend="no" hasfields="no" topad="no" bottomad="no" hasreviewhtmlkey="no" jsonurl="" dynamicdata="false" topadtype="none" bottomadtype="none" kind="html" />
+  <page id="facebook.html" type="fbfanpage" transition="" slidepageid="" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="yes" hasreviewhtmlkey="no" title="Travel Channel" fbpageid="TravelChannel" kind="native" />
+  <page id="sendmessage.html" type="form" transition="" slidepageid="" slidetransition="" hasreviews="no" hassend="no" hasfields="no" topad="no" bottomad="no" topadtype="none" bottomadtype="none" dynamicdata="false" jsonurl="" hasreviewhtmlkey="no" kind="html" />
+  <file id="menuicon4.jpg" newsfile="no" />
+  <navigation type="tabs" backgroundColor="" backgroundImage="" contentOverlap="" itemsPosition="" textStyle="" textSize="" textFont="" iosStyleNavigation="">
+    <items>
+      <item icon="menuicon.png" text="" textColor="" selectedTextColor="" selectedIcon="" backgroundImage="" selectedBackgroundImage="" backgroundColor="" selectedBackgroundColor="" />
+      <item icon="gallery.png" text="صور" textColor="" selectedTextColor="" selectedIcon="" backgroundImage="" selectedBackgroundImage="" backgroundColor="" selectedBackgroundColor="" />
+      <item icon="" text="برامجنا" textColor="" selectedTextColor="" selectedIcon="" backgroundImage="" selectedBackgroundImage="" backgroundColor="" selectedBackgroundColor="" />
+    </items>
+  </navigation>
+  <page id="copy.html" type="modernletterhtml" kind="html" transition="" slidepageid="none" slidetransition="" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" />
+  <page id="gam3ya.html" type="modernletterhtml" kind="html" transition="" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" />
+  <page id="resala-1.html" type="modernletterhtml" kind="html" transition="" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" />
+  <page id="resala-2.html" type="modernletterhtml" kind="html" transition="" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" />
+  <page id="Tafra.html" type="modernletterhtml" kind="html" transition="" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" />
+  <page id="tale3-3omra-1.html" type="modernletterhtml" kind="html" transition="" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" />
+  <page id="tale3-3omra-2.html" type="modernletterhtml" kind="html" transition="" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" />
+  <page id="kafeef.html" type="modernletterhtml" kind="html" transition="" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" />
+  <page id="takraho.html" type="modernletterhtml" kind="html" transition="" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" />
+  <page id="waraka-kalam.html" type="modernletterhtml" kind="html" transition="" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" />
+  <page id="waraka-kalam-2.html" type="modernletterhtml" kind="html" transition="" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" />
+  <page id="shogl.html" type="modernletterhtml" kind="html" transition="" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" />
+  <page id="rahma.html" type="modernletterhtml" kind="html" transition="" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" />
+  <page id="sahbak.html" type="modernletterhtml" kind="html" transition="" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" />
+  <page id="uber.html" type="modernletterhtml" kind="html" transition="" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" />
+  <page id="meen-yangedak.html" type="modernletterhtml" kind="html" transition="" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" />
+  <page id="nas.html" type="modernletterhtml" kind="html" transition="" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" />
+  <androidC2DM enabled="true" altEnabled="true" />
+  <androidpermissions>
+    <permission name="android.permission.INTERNET" enabled="true" />
+    <permission name="android.permission.ACCESS_COARSE_LOCATION" enabled="false" />
+    <permission name="android.permission.ACCESS_FINE_LOCATION" enabled="false" />
+    <permission name="android.permission.WRITE_EXTERNAL_STORAGE" enabled="false" />
+    <permission name="android.permission.ACCESS_NETWORK_STATE" enabled="true" />
+    <permission name="android.permission.READ_PHONE_STATE" enabled="false" />
+    <permission name="android.permission.RECORD_AUDIO" enabled="true" />
+    <permission name="android.permission.CAMERA" enabled="false" />
+    <permission name="android.permission.VIBRATE" enabled="false" />
+    <permission name="android.permission.ACCESS_LOCATION_EXTRA_COMMANDS" enabled="false" />
+    <permission name="android.permission.RECEIVE_SMS" enabled="false" />
+    <permission name="android.permission.RECORD_VIDEO" enabled="false" />
+    <permission name="android.permission.MODIFY_AUDIO_SETTINGS" enabled="false" />
+    <permission name="android.permission.READ_CONTACTS" enabled="false" />
+    <permission name="android.permission.WRITE_CONTACTS" enabled="false" />
+    <permission name="android.permission.GET_ACCOUNTS" enabled="false" />
+    <permission name="android.permission.BROADCAST_STICKY" enabled="false" />
+  </androidpermissions>
+  <androidversion>1.1</androidversion>
+  <androidversioncode>2</androidversioncode>
+  <androidbundlename>com.egyapps.dontbesad</androidbundlename>
+  <androidshortappname>23dontbesad</androidshortappname>
+  <syncenabled>true</syncenabled>
+  <rotationapp>false</rotationapp>
+</xml>
